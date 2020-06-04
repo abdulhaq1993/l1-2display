@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background: url(https://picsum.photos/800/600/) center/cover no-repeat;
+    height: 100vh;
+
+}
+nav{
+    background: darkolivegreen;
+}
+nav{
+    margin: 0;
+    text-align: right;
+    list-style: none;
+    height: 30px;
+    text-transform: uppercase;
+    padding-top: 2em;
+    background: rgb(39, 36, 36)
+    
+
+}
+nav a{
+    display: inline;
+    padding-right: 5%;
+    color: blanchedalmond;  
+}
+nav a:hover{
+    color: cadetblue;
+}
